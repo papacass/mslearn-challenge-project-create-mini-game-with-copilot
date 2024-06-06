@@ -17,7 +17,8 @@
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"GitHub.Copilot"
+				"GitHub.Copilot",
+				"VS.GitHub.Copilot"
 			]
 		}
 	},
